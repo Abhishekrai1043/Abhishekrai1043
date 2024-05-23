@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/Abhishekrai1043/Abhishekrai1043/assets/141399201/9b46ae75-23f4-4956-b065-1e1dd840e0c6)
+
 <h1 align="center">Hi 👋, I'm Abhishek Rai</h1>
 <h3 align="center">A passionate web developer specializing in creating dynamic and responsive websites. I love coding, exploring new technologies, and contributing to open-source projects.</h3>
 
